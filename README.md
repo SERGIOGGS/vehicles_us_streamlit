@@ -14,3 +14,6 @@ Esta aplicación web muestra un pequeño dashboard interactivo usando un conjunt
 1. Instala dependencias:
    ```bash
    pip install -r requirements.txt
+
+## Link repo de sergio gaitan
+https://github.com/SERGIOGGS/vehicles_us_streamlit.git
